@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Content Management Tool</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Content Management Tool</h1>
+    </header>
+    <main>
+        <div id="content-list">
+            <!-- Content items will be displayed here -->
+        </div>
+        <div id="content-form">
+            <!-- Content creation/editing form goes here -->
+        </div>
+    </main>
+    <script src="app.js"></script>
+</body>
+</html>
